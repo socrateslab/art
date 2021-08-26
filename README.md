@@ -1,4 +1,4 @@
-# My Book of Computational Journalism
+# My Book of Socrates
 
 ![](https://raw.githubusercontent.com/chengjun/chengjun/main/tt.gif)
 
