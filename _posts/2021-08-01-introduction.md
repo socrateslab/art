@@ -6,9 +6,7 @@ category: Jekyll
 layout: post
 ---
 
+![image](https://user-images.githubusercontent.com/543384/131336853-de46aea2-89d9-475c-8efc-03883ebc4b0d.png)
 
 
-![image](https://user-images.githubusercontent.com/543384/130966988-01410161-30c1-46f1-b469-5ba11157f9e9.png)
-
- Fig.1. Charles Alphonse du Fresnoy, la Mort de Socrate. 1650. Oil on Canvas. 48.03 x 61.02 in. (122 x 155 cm). Galleria degli Uffizi
 
